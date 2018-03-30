@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="120">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="759347957" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Boat_Sail</ObjectPath>
+			<ShortName>Boat_Sail</ShortName>
+			<Path>Boat_Sail.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1995930400" Name="Light_Wind" ObjectPath="\Events\Default Work Unit\Light_Wind"/>
+				<Event Id="173417684" Name="Sail_Breeze" ObjectPath="\Events\Default Work Unit\Sail_Breeze"/>
+				<Event Id="2579875769" Name="Sails" ObjectPath="\Events\Default Work Unit\Sails"/>
+				<Event Id="2453122309" Name="Waves" ObjectPath="\Events\Default Work Unit\Waves"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="306307183" Language="SFX">
+					<ShortName>Sail_Breeze.wav</ShortName>
+					<Path>SFX\Sail_Breeze_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="876124140" Language="SFX">
+					<ShortName>WaterOcean 6080_74.wav</ShortName>
+					<Path>SFX\WaterOcean 6080_74_F33D307D.wem</Path>
+				</File>
+				<File Id="903866753" Language="SFX">
+					<ShortName>BOAT_Mautical, Sailing Ship_3D03_09_01.wav</ShortName>
+					<Path>SFX\BOAT_Mautical, Sailing Ship_3D03_09_01_2810F59E.wem</Path>
+				</File>
+				<File Id="974018176" Language="SFX">
+					<ShortName>Light_Wind.wav</ShortName>
+					<Path>SFX\Light_Wind_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1686739424" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Storm</ObjectPath>
+			<ShortName>Storm</ShortName>
+			<Path>Storm.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2043403999" Name="Rain" ObjectPath="\Events\Default Work Unit\Rain"/>
+				<Event Id="1686739424" Name="Storm" ObjectPath="\Events\Default Work Unit\Storm"/>
+				<Event Id="3998329108" Name="Storm_Wave" ObjectPath="\Events\Default Work Unit\Storm_Wave"/>
+				<Event Id="2669339053" Name="Strong_Wind" ObjectPath="\Events\Default Work Unit\Strong_Wind"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="11785720" Language="SFX">
+					<ShortName>WTR_Storm Waves_3D04_25_01.wav</ShortName>
+					<Path>SFX\WTR_Storm Waves_3D04_25_01_AB87F6C0.wem</Path>
+				</File>
+				<File Id="929454017" Language="SFX">
+					<ShortName>Rain.wav</ShortName>
+					<Path>SFX\Rain_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="932802409" Language="SFX">
+					<ShortName>storm.wav</ShortName>
+					<Path>SFX\storm_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="1009141724" Language="SFX">
+					<ShortName>Wind 6060_74.wav</ShortName>
+					<Path>SFX\Wind 6060_74_4B8CC0C5.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1795056175" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Boat</ObjectPath>
+			<ShortName>Boat</ShortName>
+			<Path>Boat.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4003324532" Name="Hit_Wave" ObjectPath="\Events\Default Work Unit\Hit_Wave"/>
+				<Event Id="503499828" Name="Turning" ObjectPath="\Events\Default Work Unit\Turning"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="720040546" Language="SFX">
+					<ShortName>WoodRoll 6080_79.wav</ShortName>
+					<Path>SFX\WoodRoll 6080_79_8E2BA0D8.wem</Path>
+				</File>
+				<File Id="1013010760" Language="SFX">
+					<ShortName>wave_splash.wav</ShortName>
+					<Path>SFX\wave_splash_EFBED94D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2308047419" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Ports</ObjectPath>
+			<ShortName>Ports</ShortName>
+			<Path>Ports.bnk</Path>
+			<IncludedEvents>
+				<Event Id="627484336" Name="Bird_1" ObjectPath="\Events\Default Work Unit\Bird_1"/>
+				<Event Id="627484339" Name="Bird_2" ObjectPath="\Events\Default Work Unit\Bird_2"/>
+				<Event Id="3835649095" Name="Bubble" ObjectPath="\Events\Default Work Unit\Bubble"/>
+				<Event Id="2848349012" Name="Crowd" ObjectPath="\Events\Default Work Unit\Crowd"/>
+				<Event Id="2044049779" Name="Dead" ObjectPath="\Events\Default Work Unit\Dead"/>
+				<Event Id="3427136284" Name="Port_Area" ObjectPath="\Events\Default Work Unit\Port_Area"/>
+				<Event Id="2308047419" Name="Ports" ObjectPath="\Events\Default Work Unit\Ports"/>
+				<Event Id="452547817" Name="Stop_All" ObjectPath="\Events\Default Work Unit\Stop_All"/>
+				<Event Id="979765101" Name="Win" ObjectPath="\Events\Default Work Unit\Win"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="145839557" Language="SFX">
+					<ShortName>blubbles.wav</ShortName>
+					<Path>SFX\blubbles_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="204554317" Language="SFX">
+					<ShortName>Creepy.wav</ShortName>
+					<Path>SFX\Creepy_9E69E797.wem</Path>
+				</File>
+				<File Id="213441400" Language="SFX">
+					<ShortName>AMB_Ambience, Harbor Atmosphere_3D04_32_01.wav</ShortName>
+					<Path>SFX\AMB_Ambience, Harbor Atmosphere_3D04_32_01_7A88E0C7.wem</Path>
+				</File>
+				<File Id="250766174" Language="SFX">
+					<ShortName>BELL_Bell Tower_PE19_16_01.wav</ShortName>
+					<Path>SFX\BELL_Bell Tower_PE19_16_01_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="539952097" Language="SFX">
+					<ShortName>bird2.wav</ShortName>
+					<Path>SFX\bird2_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="677485026" Language="SFX">
+					<ShortName>bird1.wav</ShortName>
+					<Path>SFX\bird1_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="859512279" Language="SFX">
+					<ShortName>Port_Area.wav</ShortName>
+					<Path>SFX\Port_Area_C368D122.wem</Path>
+				</File>
+				<File Id="1029045182" Language="SFX">
+					<ShortName>CRWD_Crowd, Outdoor_IMM02_47_01.wav</ShortName>
+					<Path>SFX\CRWD_Crowd, Outdoor_IMM02_47_01_4B8CC0C5.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2376328173" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Monster</ObjectPath>
+			<ShortName>Monster</ShortName>
+			<Path>Monster.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1645043423" Name="Bite" ObjectPath="\Events\Default Work Unit\Bite"/>
+				<Event Id="3551496907" Name="Monster_Appear" ObjectPath="\Events\Default Work Unit\Monster_Appear"/>
+				<Event Id="2110808665" Name="Roar" ObjectPath="\Events\Default Work Unit\Roar"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="33923136" Language="SFX">
+					<ShortName>monster_jump.wav</ShortName>
+					<Path>SFX\monster_jump_FEA14E62.wem</Path>
+				</File>
+				<File Id="279411357" Language="SFX">
+					<ShortName>monster_attack.wav</ShortName>
+					<Path>SFX\monster_attack_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="489880775" Language="SFX">
+					<ShortName>monster_roar2.wav</ShortName>
+					<Path>SFX\monster_roar2_4B8CC0C5.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3537005526" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Lightening</ObjectPath>
+			<ShortName>Lightening</ShortName>
+			<Path>Lightening.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3537005526" Name="Lightening" ObjectPath="\Events\Default Work Unit\Lightening"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="274899034" Language="SFX">
+					<ShortName>Lightning 6040_86_2.wav</ShortName>
+					<Path>SFX\Lightning 6040_86_2_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

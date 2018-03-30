@@ -1,0 +1,10 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1645043423	Bite			\Default Work Unit\Bite	
+	2110808665	Roar			\Default Work Unit\Roar	
+	3551496907	Monster_Appear			\Default Work Unit\Monster_Appear	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	33923136	Monster_Jump	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\monster_jump_FEA14E62.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster_Jump		990080
+	279411357	Monster_Attack	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\monster_attack_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster_Attack		315456
+	489880775	Monster_Roars	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\monster_roar2_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster_Roars		360512
+

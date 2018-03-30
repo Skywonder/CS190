@@ -1,0 +1,21 @@
+Event	ID	Name			Wwise Object Path	Notes
+	452547817	Stop_All			\Default Work Unit\Stop_All	
+	627484336	Bird_1			\Default Work Unit\Bird_1	
+	627484339	Bird_2			\Default Work Unit\Bird_2	
+	979765101	Win			\Default Work Unit\Win	
+	2044049779	Dead			\Default Work Unit\Dead	
+	2308047419	Ports			\Default Work Unit\Ports	
+	2848349012	Crowd			\Default Work Unit\Crowd	
+	3427136284	Port_Area			\Default Work Unit\Port_Area	
+	3835649095	Bubble			\Default Work Unit\Bubble	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	145839557	Bubble	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\blubbles_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bubble		5726272
+	204554317	Dead	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\Creepy_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dead		3534912
+	213441400	Port	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\AMB_Ambience, Harbor Atmosphere_3D04_32_01_7A88E0C7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Port		12312200
+	250766174	Success	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\BELL_Bell Tower_PE19_16_01_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Success		11010112
+	539952097	Bird2	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\bird2_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bird2		1050688
+	677485026	Bird1	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\bird1_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bird1		671808
+	859512279	Port_Area	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\Port_Area_C368D122.wem		\Actor-Mixer Hierarchy\Default Work Unit\Port_Area		11896108
+	1029045182	crowd	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\CRWD_Crowd, Outdoor_IMM02_47_01_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\crowd		27975744
+

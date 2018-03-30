@@ -1,0 +1,12 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1686739424	Storm			\Default Work Unit\Storm	
+	2043403999	Rain			\Default Work Unit\Rain	
+	2669339053	Strong_Wind			\Default Work Unit\Strong_Wind	
+	3998329108	Storm_Wave			\Default Work Unit\Storm_Wave	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	11785720	Storm_Wave	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\WTR_Storm Waves_3D04_25_01_AB87F6C0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Storm_Wave		3912920
+	929454017	Rain	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\Rain_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rain		15917120
+	932802409	Storm	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\storm_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Storm		21209152
+	1009141724	Wind_Strong	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\Wind 6060_74_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wind_Strong		21567552
+

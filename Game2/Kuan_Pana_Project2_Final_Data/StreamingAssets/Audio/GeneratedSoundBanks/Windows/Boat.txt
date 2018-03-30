@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	503499828	Turning			\Default Work Unit\Turning	
+	4003324532	Hit_Wave			\Default Work Unit\Hit_Wave	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	720040546	Turning	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\WoodRoll 6080_79_8E2BA0D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\Turning		398740
+	1013010760	Wave_Splash	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\wave_splash_EFBED94D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wave_Splash		395252
+

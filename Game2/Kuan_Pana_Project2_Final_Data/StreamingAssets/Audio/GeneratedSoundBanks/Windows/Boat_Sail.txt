@@ -1,0 +1,12 @@
+Event	ID	Name			Wwise Object Path	Notes
+	173417684	Sail_Breeze			\Default Work Unit\Sail_Breeze	
+	1995930400	Light_Wind			\Default Work Unit\Light_Wind	
+	2453122309	Waves			\Default Work Unit\Waves	
+	2579875769	Sails			\Default Work Unit\Sails	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	306307183	Sail_Breeze	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\Sail_Breeze_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sail_Breeze		13846592
+	876124140	Waves	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\WaterOcean 6080_74_F33D307D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Waves		17505756
+	903866753	Sailing	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\BOAT_Mautical, Sailing Ship_3D03_09_01_2810F59E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sailing		1760940
+	974018176	Wind_Weak	C:\Users\Skywonder\Desktop\BloubBloub\BloubBloub\BloubBloub_WwiseProject\.cache\Windows\SFX\Light_Wind_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wind_Weak		29943872
+
